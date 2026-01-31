@@ -1,2 +1,2 @@
 x = 5
-print(int(x))
+print(type(x))
