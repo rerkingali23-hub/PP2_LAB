@@ -1,2 +1,4 @@
 x = 5
-print(type(x))
+y = "John"
+print(x)
+print(y)
